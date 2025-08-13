@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§rFixes the massive space between tabs in the settings page. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+        "description": "§rRemoves the unnecessary extra padding between tabs on the settings screen, and padding between the sound sliders. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
         "name": "§1§lAlien's§r §eSetting Tab Space Fixer §4(RP-V1.0.0)§r",
         "uuid": "e580590b-f9ff-4373-8ad6-e982e405717e",
         "version": [
@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "§rFixes the massive space between tabs in the settings page. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+            "description": "§rRemoves the unnecessary extra padding between tabs on the settings screen, and padding between the sound sliders. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
             "type": "resources",
             "uuid": "084bbf04-8235-4400-a398-3d0401ce2f43",
             "version": [
@@ -35,3 +35,4 @@
         "url": "https://TheAlienDoctor.com"
     }
 }
+
