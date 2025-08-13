@@ -1,6 +1,6 @@
 UFO Licence: Version 1.0
 
-Copyright (©) 2024, TheAlienDoctor
+Copyright (©) 2025, TheAlienDoctor
 All rights reserved.
 
 This license applies to both source and binary forms of the project.
