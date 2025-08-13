@@ -93,7 +93,7 @@
     "anchor_to": "top_left",
     "orientation": "vertical",
     "$default_selector_toggle_index": 0,
-    "$spatialPatternsPadding": [ 0, 0 ],
+    "$spatialPatternsPadding": [ 0, 0 ], //Removes padding bellow accessability button - Alien
     "ttsSectionContainer": true,
     "controls": [
 
@@ -156,8 +156,8 @@
           "$social_section_header": "options.social",
           "$general_section_header": "stat.generalButton",
           "$debug_section_header": "options.debug",
-          "$spatialPatternsPadding": [ 0, 0 ],
-          "$settingsHeaderSpace": [2, 8],
+          "$spatialPatternsPadding": [ 0, 0 ], //Removes padding between buttons - Alien
+          "$settingsHeaderSpace": [2, 8], //extra bit of padding on for headings to seperate sections - Alien
           "controls": [
 
             // Controls Section //

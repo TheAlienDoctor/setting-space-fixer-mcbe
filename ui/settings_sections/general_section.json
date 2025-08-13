@@ -5324,7 +5324,7 @@
   "sound_section": {
     "type": "stack_panel",
     "size": [ "100%", "100%c" ],
-    "$spatialPatternsPadding": [ 20, 20 ],
+    "$spatialPatternsPadding": [ 20, 20 ], // Less padding between sliders - Alien
     "$audioSlidersSize": [ "75% - 2px", 16 ],
     "anchor_from": "top_left",
     "anchor_to": "top_left",
@@ -5366,7 +5366,7 @@
       {
         "paddingDividerAudioSettings": {
           "type": "panel",
-          "size": [5, 5]
+          "size": [5, 5] // Slightly extra padding to seperate main volume from individuals - Alien
         }
       },
 
