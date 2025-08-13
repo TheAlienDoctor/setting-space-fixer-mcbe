@@ -1,38 +1,37 @@
-﻿{
-	"format_version": 2,
-	"header": {
-		"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-		"uuid": "UUID1 HERE",
-		"version": [
-			1,
-			0,
-			0
-		],
-		"min_engine_version": [
-			1,
-			21,
-			100
-		]
-	},
-	"modules": [
-		{
-			"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-			"type": "resources | data",
-			"uuid": "UUID2 HERE",
-			"version": [
-				1,
-				0,
-				0
-			]
-		}
-	],
-	"metadata": {
-		"authors": [
-			"TheAlienDoctor"
-		],
-		"license": "UFO License",
-		"url": "https://TheAlienDoctor.com"
-	}
+{
+    "format_version": 2,
+    "header": {
+        "description": "§rFixes the massive space between tabs in the settings page. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+        "name": "§1§lAlien's§r §eSetting Tab Space Fixer §4(RP-V1.0.0)§r",
+        "uuid": "e580590b-f9ff-4373-8ad6-e982e405717e",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            100
+        ]
+    },
+    "modules": [
+        {
+            "description": "§rFixes the massive space between tabs in the settings page. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+            "type": "resources",
+            "uuid": "084bbf04-8235-4400-a398-3d0401ce2f43",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "TheAlienDoctor"
+        ],
+        "license": "UFO License",
+        "url": "https://TheAlienDoctor.com"
+    }
 }
-
